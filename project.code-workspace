@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jest.pathToJest": "node node_modules/jest/bin/jest.js --watchAll",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
